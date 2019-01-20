@@ -1,4 +1,4 @@
-#### hack10.py is the python file in whick I have created the machine learning model to predict the damage grade of buildings by making a model using RandomForest classifier. The csv files are not uploaded as their size exceeds 2Gb. For reference purpose, I have uploaded the images. This is a basic project for beginners. 
+#### hack10.py is the python file in which I have created the machine learning model to predict the damage grade of buildings by making a model using RandomForest classifier. The csv files are not uploaded as their size exceeds 2Gb. For reference purpose, I have uploaded the images. This is a basic project for beginners. 
 
 #### Details of the files are as follows: 
 
